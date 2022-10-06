@@ -17,7 +17,7 @@ microservice:
   catalog-service:
     endpoints:
       endpoint:
-        uri: http://Catalog-SERVICE/Catalog/placeVendor
+        uri: http://Catalog-Service/Catalog/placeVendor
   order-service:
     endpoints:
       endpoint:
